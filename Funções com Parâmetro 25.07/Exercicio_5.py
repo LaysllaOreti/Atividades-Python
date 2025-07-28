@@ -11,4 +11,4 @@ palavras = entrada.split()
 
 quantidade = contar_palavras_com_a(palavras)
 
-print(f"Quantidade de palavras que começam com a letra 'a': {quantidade}")
+print(f"A quantidade de palavras que começam com a letra 'a': {quantidade}")
