@@ -1,4 +1,4 @@
-# Repositório de Atividades em Python
+# 🌐 Repositório de Atividades em Python
 <p align="center">
   <img src="Logo-Python/logo-Python.png" alt="Ícone do pyth" width="140">
 </p>
